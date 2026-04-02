@@ -3,4 +3,4 @@
 ¡Hola! Me llamo Victoria Castagno, soy de Salto (provincia de Buenos Aires), pero actualmente vivo en CABA para estudiar. Me gusta jugar videojuegos y practicar pádel; también disfruto de los ferrocarriles y del cine argentino. Estoy entusiasmada por la cursada, ya que la materia y su contenido tiene buenas reseñas. 
 Adjunto mi número de legajo: 213.574-7
 
-[](yo-imagen.jpg)
+![](yo-imagen.jpg)
