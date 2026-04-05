@@ -6,4 +6,4 @@ Adjunto mi número de legajo: ***213.574-7***
 ![](yo-imagen.png)
 
 Se me ocurrió agregar un dato bizarro ya que me pareció buena la idea viendo las presentaciones de mis compañeros:
-  ´ Solo puedo hacer caca con la luz apagada ´
+`  Solo puedo hacer caca con la luz apagada ` 
